@@ -1,0 +1,36 @@
+h1{
+    color:red;
+}
+h2{
+    color:orangered;
+    font-style:italic
+}
+.a{
+    color:maroon;
+    line-height: 40px;
+    
+}
+#ab{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+.highlight{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.abcd{
+    text-decoration: underline;
+    font-style: italic;
+}
+.underline{
+    text-decoration: none;
+    font-style: italic;
+    color: brown;
+}
+.color{
+    color: brown;
+}
+.space{
+    letter-spacing: 4px;
+}
